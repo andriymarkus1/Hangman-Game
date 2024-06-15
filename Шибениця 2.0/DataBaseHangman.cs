@@ -19,7 +19,7 @@ namespace Шибениця_2._0
         {
             this.login = login;
             string databasePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "DataBaseHangman.mdf");
-            connectionString = $"Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=\"G:\\Desktop\\Шибениця – копія – копія\\Шибениця 2.0\\DataBaseHangman.mdf\";Integrated Security=True";
+            connectionString = $"Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=\"G:\\Desktop\\Шибеницяu\\Шибениця 2.0\\DataBaseHangman.mdf\";Integrated Security=True";
             UserManager = new UserDataBaseManager(connectionString, login);
             GameManager = new GameDataBaseManager(connectionString, login);
             ShopManager = new ShopDataBaseManager(connectionString, login);

@@ -277,7 +277,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>q6xdjgm4zqviczMbyt/27f/w8y10vEq7wghVbSid6nM=</dsig:DigestValue>
+        <dsig:DigestValue>QC54WJB/CdB//vCocXoGGDccduduuF8xM1JdfJpLOyE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -287,7 +287,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>kyvO5jeWHNKMT9kTh/+FuMn0XWn5U6Gl+tiuWoCCy8Q=</dsig:DigestValue>
+      <dsig:DigestValue>cLgMS3LnkpN+q+xLjyks4I7l+BmUvAjIgzPDQbioFz0=</dsig:DigestValue>
     </hash>
   </file>
   <file name="DataBaseHangman_log.ldf" size="8388608" writeableType="applicationData">
@@ -296,7 +296,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>/w9qoVcqflPRIjSIHhPgRKrc21UUhROhQNUFHuNLJTM=</dsig:DigestValue>
+      <dsig:DigestValue>+tvkdkLA8SXHNhD4MW0PdJrphotKJ1MCOnECs+ya8Es=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Шибениця 2.0.exe.config" size="2596">
