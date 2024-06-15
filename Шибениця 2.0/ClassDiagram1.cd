@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Шибениця_2._0.App">
+    <Position X="5.75" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Шибениця_2._0.BaseManager" Collapsed="true">
+    <Position X="7" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgBCAAAAAAAAAQAAAAAAAAAAAAAEgA=</HashCode>
+      <FileName>BaseManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Шибениця_2._0.ButtonManager" Collapsed="true">
+    <Position X="16.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAgAAAAAAAAACABAAgAAAAAQAAIQA=</HashCode>
+      <FileName>ButtonManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Шибениця_2._0.DataBaseHangman" Collapsed="true">
+    <Position X="6.25" Y="9.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AMAAAACAAAAAAAgAAAAAAAAAAAAAAAAAAAAQAABAEAA=</HashCode>
+      <FileName>DataBaseHangman.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="userManager" />
+      <Field Name="gameManager" />
+      <Field Name="shopManager" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Шибениця_2._0.DifficultyLevel" Collapsed="true">
+    <Position X="9.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAACAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>DifficultyLevel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Шибениця_2._0.DifficultySelectionMenu" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.25" Y="8.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAABAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DifficultySelectionMenu.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Шибениця_2._0.DrawElements" Collapsed="true">
+    <Position X="13.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAARAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DrawElements.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Шибениця_2._0.FormPage" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11.5" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAgJAAAAAIAAACAAAAAAAA=</HashCode>
+      <FileName>FormPage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Шибениця_2._0.Game" Collapsed="true">
+    <Position X="11.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAgAQACAAAAAgAAADAAAAAARAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Шибениця_2._0.GameManager" Collapsed="true">
+    <Position X="7" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Шибениця_2._0.GamePage" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAREAAAAJAAgAABAAAQgIAIQFAAAAAIKAQABQwAAQgA=</HashCode>
+      <FileName>GamePage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Шибениця_2._0.MainMenuPage" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.25" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAAIAAABAIAAABAgAAAA=</HashCode>
+      <FileName>MainMenuPage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Шибениця_2._0.MainWindow" Collapsed="true" HideInheritanceLine="true" BaseTypeListCollapsed="true">
+    <Position X="14.5" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAgAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Шибениця_2._0.Shop" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="15.75" Y="8" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>EABAACEABACAEAJAAAJAIIAABIAACAIKDQAAAgCAAAE=</HashCode>
+      <FileName>Shop.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Шибениця_2._0.ShopManager" Collapsed="true">
+    <Position X="9.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAiQCAAIAAAAAQAAAAAAAAAAAAEAgCgAAAgAAASBA=</HashCode>
+      <FileName>ShopManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Шибениця_2._0.UIUpdater" Collapsed="true">
+    <Position X="18.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAEAAAAAAAAgABAAAAAQA=</HashCode>
+      <FileName>UIUpdater.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Шибениця_2._0.UserManager" Collapsed="true">
+    <Position X="4.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAACAQAAAAA=</HashCode>
+      <FileName>UserManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Шибениця_2._0.Properties.Resources" Collapsed="true">
+    <Position X="5.75" Y="20.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Шибениця_2._0.Properties.Settings" Collapsed="true">
+    <Position X="5.75" Y="23.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,234 @@
+﻿<Page x:Class="Шибениця_2._0.GamePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Шибениця_2._0"
+      mc:Ignorable="d"
+      Title="GamePage"
+      TextInput="Window_TextInput"
+      Focusable="True"
+      FontFamily="BirchCTT">
+
+
+    <Grid Cursor="Pen" Width="900" Height="1064.04">
+        <Grid.Background>
+            <ImageBrush ImageSource="/GameBack.png"/>
+        </Grid.Background>
+        <Button Style="{StaticResource BackToMenuButtonStyle}" Margin="10,58,680,954" Click="BackToMenuButton_Click" Content="В МЕНЮ" FontSize="36"/>
+        <TextBlock Name="DisplayWordTextBlock" FontSize="50" Margin="80,164,0,0" Text="WORD" HorizontalAlignment="Left" Width="710" VerticalAlignment="Top" TextAlignment="Center" Height="74"/>
+        <TextBlock Name="HintTextBlock" FontSize="40" HorizontalAlignment="Center" Margin="0,752,0,0" Height="65" Width="600" VerticalAlignment="Top" TextAlignment="Center" Visibility="Visible"/>
+        <TextBlock Name="AttemptsTextBlock" FontSize="30" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,243,0,0" Text="Attemps" TextAlignment="Center" Width="268"/>
+
+        <Grid x:Name="KeyGrid" Margin="34,0,0,62" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Left" VerticalAlignment="Bottom">
+            <Grid.Resources>
+                <Style TargetType="Button" BasedOn="{StaticResource KeyboardWrongButtonStyle}"/>
+            </Grid.Resources>
+            <Grid.LayoutTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="2" ScaleY="2"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Grid.LayoutTransform>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="30"/>
+                <RowDefinition Height="30"/>
+                <RowDefinition Height="30"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="20"/>
+                <ColumnDefinition Width="20"/>
+                <ColumnDefinition Width="20"/>
+                <ColumnDefinition Width="20"/>
+                <ColumnDefinition Width="20"/>
+                <ColumnDefinition Width="20"/>
+                <ColumnDefinition Width="20"/>
+                <ColumnDefinition Width="20"/>
+                <ColumnDefinition Width="20"/>
+                <ColumnDefinition Width="20"/>
+                <ColumnDefinition Width="20"/>
+            </Grid.ColumnDefinitions>
+
+            <Button x:Name="LetterA" Content="А" Grid.Column="0" Grid.Row="0" Click="LetterButton_Click"/>
+            <Button x:Name="LetterB" Content="Б" Grid.Column="1" Grid.Row="0" Click="LetterButton_Click"/>
+            <Button x:Name="LetterV" Content="В" Grid.Column="2" Grid.Row="0" Click="LetterButton_Click"/>
+            <Button x:Name="LetterH" Content="Г" Grid.Column="3" Grid.Row="0" Click="LetterButton_Click"/>
+            <Button x:Name="LetterG" Content="Ґ" Grid.Column="4" Grid.Row="0" Click="LetterButton_Click"/>
+            <Button x:Name="LetterD" Content="Д" Grid.Column="5" Grid.Row="0" Click="LetterButton_Click"/>
+            <Button x:Name="LetterE" Content="Е" Grid.Column="6" Grid.Row="0" Click="LetterButton_Click"/>
+            <Button x:Name="LetterYe" Content="Є" Grid.Column="7" Grid.Row="0" Click="LetterButton_Click"/>
+            <Button x:Name="LetterZh" Content="Ж" Grid.Column="8" Grid.Row="0" Click="LetterButton_Click"/>
+            <Button x:Name="LetterZ" Content="З" Grid.Column="9" Grid.Row="0" Click="LetterButton_Click"/>
+            <Button x:Name="LetterY" Content="И" Grid.Column="10" Grid.Row="0" Click="LetterButton_Click"/>
+
+            <Button x:Name="LetterI" Content="І" Grid.Column="0" Grid.Row="1" Click="LetterButton_Click"/>
+            <Button x:Name="LetterYi" Content="Ї" Grid.Column="1" Grid.Row="1" Click="LetterButton_Click"/>
+            <Button x:Name="LetterYj" Content="Й" Grid.Column="2" Grid.Row="1" Click="LetterButton_Click"/>
+            <Button x:Name="LetterK" Content="К" Grid.Column="3" Grid.Row="1" Click="LetterButton_Click"/>
+            <Button x:Name="LetterL" Content="Л" Grid.Column="4" Grid.Row="1" Click="LetterButton_Click"/>
+            <Button x:Name="LetterM" Content="М" Grid.Column="5" Grid.Row="1" Click="LetterButton_Click"/>
+            <Button x:Name="LetterN" Content="Н" Grid.Column="6" Grid.Row="1" Click="LetterButton_Click"/>
+            <Button x:Name="LetterO" Content="О" Grid.Column="7" Grid.Row="1" Click="LetterButton_Click"/>
+            <Button x:Name="LetterP" Content="П" Grid.Column="8" Grid.Row="1" Click="LetterButton_Click"/>
+            <Button x:Name="LetterR" Content="Р" Grid.Column="9" Grid.Row="1" Click="LetterButton_Click"/>
+            <Button x:Name="LetterS" Content="С" Grid.Column="10" Grid.Row="1" Click="LetterButton_Click"/>
+
+            <Button x:Name="LetterT" Content="Т" Grid.Column="0" Grid.Row="2" Click="LetterButton_Click"/>
+            <Button x:Name="LetterU" Content="У" Grid.Column="1" Grid.Row="2" Click="LetterButton_Click"/>
+            <Button x:Name="LetterF" Content="Ф" Grid.Column="2" Grid.Row="2" Click="LetterButton_Click"/>
+            <Button x:Name="LetterKh" Content="Х" Grid.Column="3" Grid.Row="2" Click="LetterButton_Click"/>
+            <Button x:Name="LetterTs" Content="Ц" Grid.Column="4" Grid.Row="2" Click="LetterButton_Click"/>
+            <Button x:Name="LetterCh" Content="Ч" Grid.Column="5" Grid.Row="2" Click="LetterButton_Click"/>
+            <Button x:Name="LetterSh" Content="Ш" Grid.Column="6" Grid.Row="2" Click="LetterButton_Click"/>
+            <Button x:Name="LetterShch" Content="Щ" Grid.Column="7" Grid.Row="2" Click="LetterButton_Click"/>
+            <Button x:Name="LetterMz" Content="Ь" Grid.Column="8" Grid.Row="2" Click="LetterButton_Click"/>
+            <Button x:Name="LetterYu" Content="Ю" Grid.Column="9" Grid.Row="2" Click="LetterButton_Click"/>
+            <Button x:Name="LetterYa" Content="Я" Grid.Column="10" Grid.Row="2" Click="LetterButton_Click"/>
+        </Grid>
+
+        <TextBlock x:Name="TimerTextBlock"  FontSize="50" Margin="516,822,0,0" Text="00:00" HorizontalAlignment="Left" Width="198" VerticalAlignment="Top" TextAlignment="Center" Height="74"/>
+        <Image x:Name="GallowImage" Source="\Visual\Game_Page\Gallows\Default_Gallow.png" Margin="0,229,414,305" Stretch="Fill"/>
+        <Image x:Name="HangmanImage" Source="\Visual\Game_Page\Hangmans\Orc\0.png" Margin="0,229,414,305" Stretch="Fill"/>
+        <Button x:Name="HintButton" Style="{StaticResource HintButtonStyle}" Margin="578,889,235,59" Click="HintButton_Click" >
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.467"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+
+        <Grid x:Name="EndGrid">
+            <Image x:Name="EndMenuImage" Source="\Visual\Game_Page\Endgame_Menu\EndMenu.png" Margin="172,164,-100,137" />
+            <TextBlock Name="EndGameResultTextBlock" FontSize="40" Margin="466,381,0,0" Text="ВИ ПРОГРАЛИ(" HorizontalAlignment="Left" Width="301" VerticalAlignment="Top" Height="74" RenderTransformOrigin="0.5,0.5" FontWeight="Bold" Foreground="#FF178208">
+                <TextBlock.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="-6.736"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </TextBlock.RenderTransform>
+            </TextBlock>
+            <Button Style="{StaticResource BackToMenuButtonStyle}" Margin="591,649,99,363" Click="BackToMenuButton_Click" Content="в меню" FontSize="36" RenderTransformOrigin="0.5,0.5">
+                <Button.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="-1.029"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Button.RenderTransform>
+            </Button>
+            <Button Style="{StaticResource RestartButtonStyle}" Margin="420,620,264,387" Content="ЩЕ РАЗ" FontSize="36" RenderTransformOrigin="0.5,0.5" Foreground="#FF020D69" FontWeight="Bold" Click="RestartButton_Click">
+                <Button.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="-1.692"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Button.RenderTransform>
+            </Button>
+            <Image x:Name="KeyboardCoverImage" Source="\Visual\Game_Page\Cover_Images\KeyboardCover.png" Margin="-16,811,366,50"/>
+            <TextBlock Name="EndGameResultDashesTextBlock" FontSize="22" Margin="436,560,0,0" Text="ЗАРОБЛЕНО РИСОЧОК: 0" HorizontalAlignment="Left" Width="271" VerticalAlignment="Top" Height="31" RenderTransformOrigin="0.5,0.5" FontWeight="Bold" Foreground="Black">
+                <TextBlock.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="-2.409"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </TextBlock.RenderTransform>
+            </TextBlock>
+            <Image x:Name="BackToMenuCoverImage" Source="\Visual\Game_Page\Cover_Images\BackToMenuCover.png" Margin="0,45,661,941"/>
+            <TextBlock x:Name="EndTimerTextBlock"  FontSize="22" Margin="438,526,0,0" Text="00:00" HorizontalAlignment="Left" Width="291" VerticalAlignment="Top" TextAlignment="Center" Height="38" FontWeight="Bold" RenderTransformOrigin="0.5,0.5">
+                <TextBlock.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="-2.658"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </TextBlock.RenderTransform>
+            </TextBlock>
+        </Grid>
+        <TextBlock Name="DashesTextBlock" FontSize="30" Text="1000(P)" Width="184" Height="36" FontWeight="Bold" Foreground="Black" Canvas.Left="402" Canvas.Top="396" VerticalAlignment="Top" HorizontalAlignment="Left" TextWrapping="Wrap" RenderTransformOrigin="0.5,0.5" Margin="590,62,0,0">
+        </TextBlock>
+        <Canvas x:Name="HintCanvas" Visibility="Collapsed">
+            <Canvas.Background>
+                <ImageBrush ImageSource="\Visual\Game_Page\HintBack.png"/>
+            </Canvas.Background>
+            <Canvas x:Name="TopicHintCanvas" Visibility="Visible">
+                <Button Style="{StaticResource BackToMenuButtonStyle}" Content="Подивитись тему" FontSize="30" RenderTransformOrigin="0.5,0.5" Foreground="#FF020D69" FontWeight="Bold" Canvas.Left="278" Canvas.Top="460" HorizontalAlignment="Left" VerticalAlignment="Center" Width="279" Height="44" Click="OpenTopicButton_Click">
+                    <Button.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform AngleY="-0.639"/>
+                            <RotateTransform Angle="-0.817"/>
+                            <TranslateTransform X="0.044" Y="1.502"/>
+                        </TransformGroup>
+                    </Button.RenderTransform>
+                </Button>
+                <TextBlock x:Name="TopicHintPriceTextBlock" FontSize="20" Text="> 20(P)" Width="184" Height="36" FontWeight="Bold" Foreground="Black" Canvas.Left="565" Canvas.Top="458" TextWrapping="Wrap" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Left" VerticalAlignment="Top">
+                    <TextBlock.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform AngleY="-3.077"/>
+                            <RotateTransform/>
+                            <TranslateTransform Y="4.946"/>
+                        </TransformGroup>
+                    </TextBlock.RenderTransform>
+                </TextBlock>
+            </Canvas>
+            <Button Style="{StaticResource BackToMenuButtonStyle}" Content="Відкрити літеру" FontSize="30" RenderTransformOrigin="0.5,0.5" Foreground="#FF020D69" FontWeight="Bold" Click="OpenLetterButton_Click" Canvas.Left="331" Canvas.Top="539" HorizontalAlignment="Left" VerticalAlignment="Top" Width="278" Height="44">
+                <Button.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform AngleY="-3.471"/>
+                        <RotateTransform Angle="0.114"/>
+                        <TranslateTransform X="-0.112" Y="7.949"/>
+                    </TransformGroup>
+                </Button.RenderTransform>
+            </Button>
+
+            <TextBlock x:Name="OpenLetterHintPriceTextBlock" FontSize="20" Text="" Width="184" Height="36" FontWeight="Bold" Foreground="Black" Canvas.Left="604" Canvas.Top="540" TextWrapping="Wrap" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Center" VerticalAlignment="Top">
+                <TextBlock.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform AngleY="-3.077"/>
+                        <RotateTransform/>
+                        <TranslateTransform Y="4.946"/>
+                    </TransformGroup>
+                </TextBlock.RenderTransform>
+            </TextBlock>
+            <Button Style="{StaticResource BackToMenuButtonStyle}" Content="Назад" FontSize="30" RenderTransformOrigin="0.5,0.5" Foreground="Black" Click="CloseHintButton_Click" Canvas.Left="403" Canvas.Top="604" HorizontalAlignment="Left" VerticalAlignment="Top" Width="141" Height="44">
+                <Button.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform AngleY="-3.471"/>
+                        <RotateTransform Angle="0.114"/>
+                        <TranslateTransform X="-0.112" Y="7.949"/>
+                    </TransformGroup>
+                </Button.RenderTransform>
+            </Button>
+        </Canvas>
+        <Canvas x:Name="MessageBoxCanvas" Visibility="Collapsed" Height="410" Width="678" Canvas.Left="119" Canvas.Top="268" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Canvas.Background>
+                <ImageBrush ImageSource="\Visual\MessageBoxBack.png" Stretch="Uniform"/>
+            </Canvas.Background>
+            <TextBlock x:Name="MessageBoxTextBlock"
+   Text=""
+   FontSize="25"
+   Padding="7,0,7,0"
+   TextWrapping="Wrap"
+   VerticalAlignment="Center"
+   TextAlignment="Center" Canvas.Left="152" Canvas.Top="124" HorizontalAlignment="Left" Width="374"/>
+            <Button Style="{StaticResource BackToMenuButtonStyle}" Click="OkButton_Click" Content="Ok" FontSize="40" RenderTransformOrigin="0.5,0.5" Canvas.Left="265" Canvas.Top="268" Width="120" Height="54" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        </Canvas>
+    </Grid>
+</Page>

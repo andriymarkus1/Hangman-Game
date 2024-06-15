@@ -1,0 +1,22 @@
+﻿<Window x:Class="Шибениця_2._0.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Шибениця_2._0"
+        mc:Ignorable="d"
+        Title="Шибениця" Height="1080" Width="900"  WindowStartupLocation="CenterScreen" ResizeMode="NoResize" FontFamily="Bodoni MT Poster Compressed" AutomationProperties.Name="MainWindow" Cursor="Pen" VerticalContentAlignment="Stretch" HorizontalContentAlignment="Stretch" Icon="\Visual\Шибениця лого.png">
+    <Window.Background>
+        <ImageBrush>
+            <ImageBrush.ImageSource>\Visual\Main_Menu\Back.png</ImageBrush.ImageSource>
+        </ImageBrush>
+    </Window.Background>
+
+    <Grid>
+        <Frame x:Name="MainFrame" NavigationUIVisibility="Hidden" Navigated="MainFrame_Navigated" >
+            <Frame.Background>
+                <ImageBrush/>
+            </Frame.Background>
+        </Frame>
+    </Grid>
+</Window>

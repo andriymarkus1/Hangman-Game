@@ -1,0 +1,485 @@
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\obj\Debug\Шибениця 2.0.csproj.AssemblyReference.cache
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\obj\Debug\MainWindow.g.cs
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\obj\Debug\App.g.cs
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\obj\Debug\Шибениця 2.0_MarkupCompile.cache
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\obj\Debug\Шибениця 2.0_MarkupCompile.lref
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\bin\Debug\Шибениця 2.0.exe.config
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\bin\Debug\Шибениця 2.0.exe
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\bin\Debug\Шибениця 2.0.pdb
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\obj\Debug\App.baml
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\obj\Debug\MainWindow.baml
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\obj\Debug\Шибениця 2.0.g.resources
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\obj\Debug\Шибениця_2._0.Properties.Resources.resources
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\obj\Debug\Шибениця 2.0.csproj.GenerateResource.cache
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\obj\Debug\Шибениця 2.0.csproj.CoreCompileInputs.cache
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\obj\Debug\Шибениця 2.0.exe
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\obj\Debug\Шибениця 2.0.pdb
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\obj\Debug\MainMenuPage.g.cs
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\obj\Debug\MainMenuPage.baml
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\obj\Debug\GamePage.g.cs
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\obj\Debug\GamePage.baml
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\bin\Debug\BouncyCastle.Cryptography.dll
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\bin\Debug\EntityFramework.dll
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\bin\Debug\EntityFramework.SqlServer.dll
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\bin\Debug\Google.Protobuf.dll
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\bin\Debug\K4os.Compression.LZ4.dll
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\bin\Debug\K4os.Hash.xxHash.dll
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\bin\Debug\MySql.Data.dll
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\bin\Debug\System.Buffers.dll
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\bin\Debug\System.Configuration.ConfigurationManager.dll
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\bin\Debug\System.IO.Pipelines.dll
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\bin\Debug\System.Memory.dll
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\bin\Debug\System.Numerics.Vectors.dll
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\bin\Debug\ZstdSharp.dll
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\bin\Debug\BouncyCastle.Cryptography.xml
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\bin\Debug\EntityFramework.xml
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\bin\Debug\EntityFramework.SqlServer.xml
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\bin\Debug\Google.Protobuf.pdb
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\bin\Debug\Google.Protobuf.xml
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\bin\Debug\K4os.Compression.LZ4.xml
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\bin\Debug\K4os.Compression.LZ4.Streams.xml
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\bin\Debug\K4os.Hash.xxHash.xml
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\bin\Debug\MySql.Data.xml
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\bin\Debug\System.Buffers.xml
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\bin\Debug\System.Configuration.ConfigurationManager.xml
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\bin\Debug\System.IO.Pipelines.xml
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\bin\Debug\System.Memory.xml
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\bin\Debug\System.Numerics.Vectors.xml
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\obj\Debug\Шибениця 2.0_Content.g.cs
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\obj\Debug\Шибениця 2.0.csproj.CopyComplete
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\bin\Debug\WpfAnimatedGif.dll
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\bin\Debug\WpfAnimatedGif.pdb
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\bin\Debug\WpfAnimatedGif.xml
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\obj\Debug\DifficultySelectionMenu.g.cs
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\obj\Debug\DifficultySelectionMenu.baml
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\bin\Debug\DataBaseHangman.mdf
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\bin\Debug\DataBaseHangman_log.ldf
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\obj\Debug\Shop.g.cs
+G:\Унік\OOP\Шибениця 2.0\Шибениця 2.0\obj\Debug\Shop.baml
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\DataBaseHangman.mdf
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\DataBaseHangman_log.ldf
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\Шибениця 2.0.exe.config
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\Шибениця 2.0.exe
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\Шибениця 2.0.pdb
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\EntityFramework.dll
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\EntityFramework.SqlServer.dll
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\Google.Protobuf.dll
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\K4os.Compression.LZ4.dll
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\K4os.Hash.xxHash.dll
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\MySql.Data.dll
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\System.Buffers.dll
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\System.IO.Pipelines.dll
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\System.Memory.dll
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\System.Numerics.Vectors.dll
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\WpfAnimatedGif.dll
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\ZstdSharp.dll
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\EntityFramework.xml
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\EntityFramework.SqlServer.xml
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\Google.Protobuf.pdb
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\Google.Protobuf.xml
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\K4os.Compression.LZ4.xml
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\K4os.Hash.xxHash.xml
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\MySql.Data.xml
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\System.Buffers.xml
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\System.IO.Pipelines.xml
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\System.Memory.xml
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\System.Numerics.Vectors.xml
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\WpfAnimatedGif.pdb
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\WpfAnimatedGif.xml
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\obj\Debug\Шибениця 2.0.csproj.AssemblyReference.cache
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\obj\Debug\DifficultySelectionMenu.g.cs
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\obj\Debug\MainWindow.g.cs
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\obj\Debug\GamePage.g.cs
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\obj\Debug\MainMenuPage.g.cs
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\obj\Debug\Shop.g.cs
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\obj\Debug\App.g.cs
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\obj\Debug\Шибениця 2.0_Content.g.cs
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\obj\Debug\Шибениця 2.0_MarkupCompile.cache
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\obj\Debug\Шибениця 2.0_MarkupCompile.lref
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\obj\Debug\App.baml
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\obj\Debug\DifficultySelectionMenu.baml
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\obj\Debug\MainWindow.baml
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\obj\Debug\GamePage.baml
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\obj\Debug\MainMenuPage.baml
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\obj\Debug\Shop.baml
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\obj\Debug\Шибениця 2.0.g.resources
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\obj\Debug\Шибениця_2._0.Properties.Resources.resources
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\obj\Debug\Шибениця 2.0.csproj.GenerateResource.cache
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\obj\Debug\Шибениця 2.0.csproj.CoreCompileInputs.cache
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\obj\Debug\Шибениця.522B179D.Up2Date
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\obj\Debug\Шибениця 2.0.exe
+D:\Downloads\Telegram Desktop\Шибениця 2.0 – копія (2)\Шибениця 2.0 – копія (2)\Шибениця 2.0\obj\Debug\Шибениця 2.0.pdb
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\DataBaseHangman.mdf
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\DataBaseHangman_log.ldf
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\Шибениця 2.0.exe.config
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\Шибениця 2.0.exe
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\Шибениця 2.0.pdb
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\EntityFramework.dll
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\EntityFramework.SqlServer.dll
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\Google.Protobuf.dll
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\K4os.Compression.LZ4.dll
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\K4os.Hash.xxHash.dll
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\MySql.Data.dll
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\System.Buffers.dll
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\System.IO.Pipelines.dll
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\System.Memory.dll
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\System.Numerics.Vectors.dll
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\WpfAnimatedGif.dll
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\ZstdSharp.dll
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\EntityFramework.xml
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\EntityFramework.SqlServer.xml
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\Google.Protobuf.pdb
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\Google.Protobuf.xml
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\K4os.Compression.LZ4.xml
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\K4os.Hash.xxHash.xml
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\MySql.Data.xml
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\System.Buffers.xml
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\System.IO.Pipelines.xml
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\System.Memory.xml
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\System.Numerics.Vectors.xml
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\WpfAnimatedGif.pdb
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\bin\Debug\WpfAnimatedGif.xml
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\obj\Debug\Шибениця 2.0.csproj.AssemblyReference.cache
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\obj\Debug\DifficultySelectionMenu.g.cs
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\obj\Debug\MainWindow.g.cs
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\obj\Debug\GamePage.g.cs
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\obj\Debug\MainMenuPage.g.cs
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\obj\Debug\Shop.g.cs
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\obj\Debug\App.g.cs
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\obj\Debug\Шибениця 2.0_Content.g.cs
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\obj\Debug\Шибениця 2.0_MarkupCompile.cache
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\obj\Debug\Шибениця 2.0_MarkupCompile.lref
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\obj\Debug\App.baml
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\obj\Debug\DifficultySelectionMenu.baml
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\obj\Debug\MainWindow.baml
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\obj\Debug\GamePage.baml
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\obj\Debug\MainMenuPage.baml
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\obj\Debug\Shop.baml
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\obj\Debug\Шибениця 2.0.g.resources
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\obj\Debug\Шибениця_2._0.Properties.Resources.resources
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\obj\Debug\Шибениця 2.0.csproj.GenerateResource.cache
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\obj\Debug\Шибениця 2.0.csproj.CoreCompileInputs.cache
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\obj\Debug\Шибениця.522B179D.Up2Date
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\obj\Debug\Шибениця 2.0.exe
+D:\Захер\Шибениця 2.0 – копія (2)\Шибениця 2.0\obj\Debug\Шибениця 2.0.pdb
+G:\Desktop\Шибениця 2\Шибениця 2.0\bin\Debug\DataBaseHangman.mdf
+G:\Desktop\Шибениця 2\Шибениця 2.0\bin\Debug\DataBaseHangman_log.ldf
+G:\Desktop\Шибениця 2\Шибениця 2.0\bin\Debug\Шибениця 2.0.exe.config
+G:\Desktop\Шибениця 2\Шибениця 2.0\bin\Debug\Шибениця 2.0.exe
+G:\Desktop\Шибениця 2\Шибениця 2.0\bin\Debug\Шибениця 2.0.pdb
+G:\Desktop\Шибениця 2\Шибениця 2.0\bin\Debug\BouncyCastle.Cryptography.dll
+G:\Desktop\Шибениця 2\Шибениця 2.0\bin\Debug\EntityFramework.dll
+G:\Desktop\Шибениця 2\Шибениця 2.0\bin\Debug\EntityFramework.SqlServer.dll
+G:\Desktop\Шибениця 2\Шибениця 2.0\bin\Debug\Google.Protobuf.dll
+G:\Desktop\Шибениця 2\Шибениця 2.0\bin\Debug\K4os.Compression.LZ4.dll
+G:\Desktop\Шибениця 2\Шибениця 2.0\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\Desktop\Шибениця 2\Шибениця 2.0\bin\Debug\K4os.Hash.xxHash.dll
+G:\Desktop\Шибениця 2\Шибениця 2.0\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Desktop\Шибениця 2\Шибениця 2.0\bin\Debug\MySql.Data.dll
+G:\Desktop\Шибениця 2\Шибениця 2.0\bin\Debug\System.Buffers.dll
+G:\Desktop\Шибениця 2\Шибениця 2.0\bin\Debug\System.Configuration.ConfigurationManager.dll
+G:\Desktop\Шибениця 2\Шибениця 2.0\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+G:\Desktop\Шибениця 2\Шибениця 2.0\bin\Debug\System.IO.Pipelines.dll
+G:\Desktop\Шибениця 2\Шибениця 2.0\bin\Debug\System.Memory.dll
+G:\Desktop\Шибениця 2\Шибениця 2.0\bin\Debug\System.Numerics.Vectors.dll
+G:\Desktop\Шибениця 2\Шибениця 2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Desktop\Шибениця 2\Шибениця 2.0\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\Desktop\Шибениця 2\Шибениця 2.0\bin\Debug\WpfAnimatedGif.dll
+G:\Desktop\Шибениця 2\Шибениця 2.0\bin\Debug\ZstdSharp.dll
+G:\Desktop\Шибениця 2\Шибениця 2.0\bin\Debug\BouncyCastle.Cryptography.xml
+G:\Desktop\Шибениця 2\Шибениця 2.0\bin\Debug\EntityFramework.xml
+G:\Desktop\Шибениця 2\Шибениця 2.0\bin\Debug\EntityFramework.SqlServer.xml
+G:\Desktop\Шибениця 2\Шибениця 2.0\bin\Debug\Google.Protobuf.pdb
+G:\Desktop\Шибениця 2\Шибениця 2.0\bin\Debug\Google.Protobuf.xml
+G:\Desktop\Шибениця 2\Шибениця 2.0\bin\Debug\K4os.Compression.LZ4.xml
+G:\Desktop\Шибениця 2\Шибениця 2.0\bin\Debug\K4os.Compression.LZ4.Streams.xml
+G:\Desktop\Шибениця 2\Шибениця 2.0\bin\Debug\K4os.Hash.xxHash.xml
+G:\Desktop\Шибениця 2\Шибениця 2.0\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+G:\Desktop\Шибениця 2\Шибениця 2.0\bin\Debug\MySql.Data.xml
+G:\Desktop\Шибениця 2\Шибениця 2.0\bin\Debug\System.Buffers.xml
+G:\Desktop\Шибениця 2\Шибениця 2.0\bin\Debug\System.Configuration.ConfigurationManager.xml
+G:\Desktop\Шибениця 2\Шибениця 2.0\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+G:\Desktop\Шибениця 2\Шибениця 2.0\bin\Debug\System.IO.Pipelines.xml
+G:\Desktop\Шибениця 2\Шибениця 2.0\bin\Debug\System.Memory.xml
+G:\Desktop\Шибениця 2\Шибениця 2.0\bin\Debug\System.Numerics.Vectors.xml
+G:\Desktop\Шибениця 2\Шибениця 2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\Desktop\Шибениця 2\Шибениця 2.0\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\Desktop\Шибениця 2\Шибениця 2.0\bin\Debug\WpfAnimatedGif.pdb
+G:\Desktop\Шибениця 2\Шибениця 2.0\bin\Debug\WpfAnimatedGif.xml
+G:\Desktop\Шибениця 2\Шибениця 2.0\obj\Debug\Шибениця 2.0.csproj.AssemblyReference.cache
+G:\Desktop\Шибениця 2\Шибениця 2.0\obj\Debug\App.baml
+G:\Desktop\Шибениця 2\Шибениця 2.0\obj\Debug\DifficultySelectionMenu.g.cs
+G:\Desktop\Шибениця 2\Шибениця 2.0\obj\Debug\MainWindow.g.cs
+G:\Desktop\Шибениця 2\Шибениця 2.0\obj\Debug\GamePage.g.cs
+G:\Desktop\Шибениця 2\Шибениця 2.0\obj\Debug\MainMenuPage.g.cs
+G:\Desktop\Шибениця 2\Шибениця 2.0\obj\Debug\Shop.g.cs
+G:\Desktop\Шибениця 2\Шибениця 2.0\obj\Debug\App.g.cs
+G:\Desktop\Шибениця 2\Шибениця 2.0\obj\Debug\Шибениця 2.0_Content.g.cs
+G:\Desktop\Шибениця 2\Шибениця 2.0\obj\Debug\Шибениця 2.0_MarkupCompile.cache
+G:\Desktop\Шибениця 2\Шибениця 2.0\obj\Debug\Шибениця 2.0_MarkupCompile.lref
+G:\Desktop\Шибениця 2\Шибениця 2.0\obj\Debug\DifficultySelectionMenu.baml
+G:\Desktop\Шибениця 2\Шибениця 2.0\obj\Debug\MainWindow.baml
+G:\Desktop\Шибениця 2\Шибениця 2.0\obj\Debug\GamePage.baml
+G:\Desktop\Шибениця 2\Шибениця 2.0\obj\Debug\MainMenuPage.baml
+G:\Desktop\Шибениця 2\Шибениця 2.0\obj\Debug\Shop.baml
+G:\Desktop\Шибениця 2\Шибениця 2.0\obj\Debug\Шибениця 2.0.g.resources
+G:\Desktop\Шибениця 2\Шибениця 2.0\obj\Debug\Шибениця_2._0.Properties.Resources.resources
+G:\Desktop\Шибениця 2\Шибениця 2.0\obj\Debug\Шибениця 2.0.csproj.GenerateResource.cache
+G:\Desktop\Шибениця 2\Шибениця 2.0\obj\Debug\Шибениця 2.0.csproj.CoreCompileInputs.cache
+G:\Desktop\Шибениця 2\Шибениця 2.0\obj\Debug\Шибениця 2.0.csproj.CopyComplete
+G:\Desktop\Шибениця 2\Шибениця 2.0\obj\Debug\Шибениця 2.0.exe
+G:\Desktop\Шибениця 2\Шибениця 2.0\obj\Debug\Шибениця 2.0.pdb
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\bin\Debug\DataBaseHangman.mdf
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\bin\Debug\DataBaseHangman_log.ldf
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\bin\Debug\Шибениця 2.0.exe.config
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\bin\Debug\Шибениця 2.0.exe.manifest
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\bin\Debug\Шибениця 2.0.application
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\bin\Debug\Шибениця 2.0.exe
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\bin\Debug\Шибениця 2.0.pdb
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\bin\Debug\BouncyCastle.Cryptography.dll
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\bin\Debug\EntityFramework.dll
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\bin\Debug\EntityFramework.SqlServer.dll
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\bin\Debug\Google.Protobuf.dll
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\bin\Debug\K4os.Compression.LZ4.dll
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\bin\Debug\K4os.Hash.xxHash.dll
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\bin\Debug\MySql.Data.dll
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\bin\Debug\System.Buffers.dll
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\bin\Debug\System.Configuration.ConfigurationManager.dll
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\bin\Debug\System.IO.Pipelines.dll
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\bin\Debug\System.Memory.dll
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\bin\Debug\System.Numerics.Vectors.dll
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\bin\Debug\WpfAnimatedGif.dll
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\bin\Debug\ZstdSharp.dll
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\bin\Debug\BouncyCastle.Cryptography.xml
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\bin\Debug\EntityFramework.xml
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\bin\Debug\EntityFramework.SqlServer.xml
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\bin\Debug\Google.Protobuf.pdb
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\bin\Debug\Google.Protobuf.xml
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\bin\Debug\K4os.Compression.LZ4.xml
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\bin\Debug\K4os.Compression.LZ4.Streams.xml
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\bin\Debug\K4os.Hash.xxHash.xml
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\bin\Debug\MySql.Data.xml
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\bin\Debug\System.Buffers.xml
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\bin\Debug\System.Configuration.ConfigurationManager.xml
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\bin\Debug\System.IO.Pipelines.xml
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\bin\Debug\System.Memory.xml
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\bin\Debug\System.Numerics.Vectors.xml
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\bin\Debug\WpfAnimatedGif.pdb
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\bin\Debug\WpfAnimatedGif.xml
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\obj\Debug\Шибениця 2.0.csproj.AssemblyReference.cache
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\obj\Debug\App.baml
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\obj\Debug\DifficultySelectionMenu.g.cs
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\obj\Debug\MainWindow.g.cs
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\obj\Debug\GamePage.g.cs
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\obj\Debug\MainMenuPage.g.cs
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\obj\Debug\Shop.g.cs
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\obj\Debug\App.g.cs
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\obj\Debug\Шибениця 2.0_Content.g.cs
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\obj\Debug\Шибениця 2.0_MarkupCompile.cache
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\obj\Debug\Шибениця 2.0_MarkupCompile.lref
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\obj\Debug\DifficultySelectionMenu.baml
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\obj\Debug\MainWindow.baml
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\obj\Debug\GamePage.baml
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\obj\Debug\MainMenuPage.baml
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\obj\Debug\Shop.baml
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\obj\Debug\Шибениця 2.0.g.resources
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\obj\Debug\Шибениця_2._0.Properties.Resources.resources
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\obj\Debug\Шибениця 2.0.csproj.GenerateResource.cache
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\obj\Debug\Шибениця 2.0.csproj.CoreCompileInputs.cache
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\obj\Debug\Шибениця 2.0.exe.manifest
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\obj\Debug\Шибениця 2.0.application
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\obj\Debug\Шибениця 2.0.csproj.CopyComplete
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\obj\Debug\Шибениця 2.0.exe
+G:\Desktop\Шибениця 2 dslyjcyf\Шибениця 2.0\obj\Debug\Шибениця 2.0.pdb
+G:\Desktop\Шибениця\Шибениця 2.0\bin\Debug\DataBaseHangman.mdf
+G:\Desktop\Шибениця\Шибениця 2.0\bin\Debug\DataBaseHangman_log.ldf
+G:\Desktop\Шибениця\Шибениця 2.0\bin\Debug\Шибениця 2.0.exe.config
+G:\Desktop\Шибениця\Шибениця 2.0\bin\Debug\Шибениця 2.0.exe.manifest
+G:\Desktop\Шибениця\Шибениця 2.0\bin\Debug\Шибениця 2.0.application
+G:\Desktop\Шибениця\Шибениця 2.0\bin\Debug\Шибениця 2.0.exe
+G:\Desktop\Шибениця\Шибениця 2.0\bin\Debug\Шибениця 2.0.pdb
+G:\Desktop\Шибениця\Шибениця 2.0\bin\Debug\BouncyCastle.Cryptography.dll
+G:\Desktop\Шибениця\Шибениця 2.0\bin\Debug\EntityFramework.dll
+G:\Desktop\Шибениця\Шибениця 2.0\bin\Debug\EntityFramework.SqlServer.dll
+G:\Desktop\Шибениця\Шибениця 2.0\bin\Debug\Google.Protobuf.dll
+G:\Desktop\Шибениця\Шибениця 2.0\bin\Debug\K4os.Compression.LZ4.dll
+G:\Desktop\Шибениця\Шибениця 2.0\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\Desktop\Шибениця\Шибениця 2.0\bin\Debug\K4os.Hash.xxHash.dll
+G:\Desktop\Шибениця\Шибениця 2.0\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Desktop\Шибениця\Шибениця 2.0\bin\Debug\MySql.Data.dll
+G:\Desktop\Шибениця\Шибениця 2.0\bin\Debug\System.Buffers.dll
+G:\Desktop\Шибениця\Шибениця 2.0\bin\Debug\System.Configuration.ConfigurationManager.dll
+G:\Desktop\Шибениця\Шибениця 2.0\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+G:\Desktop\Шибениця\Шибениця 2.0\bin\Debug\System.IO.Pipelines.dll
+G:\Desktop\Шибениця\Шибениця 2.0\bin\Debug\System.Memory.dll
+G:\Desktop\Шибениця\Шибениця 2.0\bin\Debug\System.Numerics.Vectors.dll
+G:\Desktop\Шибениця\Шибениця 2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Desktop\Шибениця\Шибениця 2.0\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\Desktop\Шибениця\Шибениця 2.0\bin\Debug\WpfAnimatedGif.dll
+G:\Desktop\Шибениця\Шибениця 2.0\bin\Debug\ZstdSharp.dll
+G:\Desktop\Шибениця\Шибениця 2.0\bin\Debug\BouncyCastle.Cryptography.xml
+G:\Desktop\Шибениця\Шибениця 2.0\bin\Debug\EntityFramework.xml
+G:\Desktop\Шибениця\Шибениця 2.0\bin\Debug\EntityFramework.SqlServer.xml
+G:\Desktop\Шибениця\Шибениця 2.0\bin\Debug\Google.Protobuf.pdb
+G:\Desktop\Шибениця\Шибениця 2.0\bin\Debug\Google.Protobuf.xml
+G:\Desktop\Шибениця\Шибениця 2.0\bin\Debug\K4os.Compression.LZ4.xml
+G:\Desktop\Шибениця\Шибениця 2.0\bin\Debug\K4os.Compression.LZ4.Streams.xml
+G:\Desktop\Шибениця\Шибениця 2.0\bin\Debug\K4os.Hash.xxHash.xml
+G:\Desktop\Шибениця\Шибениця 2.0\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+G:\Desktop\Шибениця\Шибениця 2.0\bin\Debug\MySql.Data.xml
+G:\Desktop\Шибениця\Шибениця 2.0\bin\Debug\System.Buffers.xml
+G:\Desktop\Шибениця\Шибениця 2.0\bin\Debug\System.Configuration.ConfigurationManager.xml
+G:\Desktop\Шибениця\Шибениця 2.0\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+G:\Desktop\Шибениця\Шибениця 2.0\bin\Debug\System.IO.Pipelines.xml
+G:\Desktop\Шибениця\Шибениця 2.0\bin\Debug\System.Memory.xml
+G:\Desktop\Шибениця\Шибениця 2.0\bin\Debug\System.Numerics.Vectors.xml
+G:\Desktop\Шибениця\Шибениця 2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\Desktop\Шибениця\Шибениця 2.0\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\Desktop\Шибениця\Шибениця 2.0\bin\Debug\WpfAnimatedGif.pdb
+G:\Desktop\Шибениця\Шибениця 2.0\bin\Debug\WpfAnimatedGif.xml
+G:\Desktop\Шибениця\Шибениця 2.0\obj\Debug\Шибениця 2.0.csproj.AssemblyReference.cache
+G:\Desktop\Шибениця\Шибениця 2.0\obj\Debug\App.baml
+G:\Desktop\Шибениця\Шибениця 2.0\obj\Debug\DifficultySelectionMenu.g.cs
+G:\Desktop\Шибениця\Шибениця 2.0\obj\Debug\MainWindow.g.cs
+G:\Desktop\Шибениця\Шибениця 2.0\obj\Debug\GamePage.g.cs
+G:\Desktop\Шибениця\Шибениця 2.0\obj\Debug\MainMenuPage.g.cs
+G:\Desktop\Шибениця\Шибениця 2.0\obj\Debug\Shop.g.cs
+G:\Desktop\Шибениця\Шибениця 2.0\obj\Debug\App.g.cs
+G:\Desktop\Шибениця\Шибениця 2.0\obj\Debug\Шибениця 2.0_Content.g.cs
+G:\Desktop\Шибениця\Шибениця 2.0\obj\Debug\Шибениця 2.0_MarkupCompile.cache
+G:\Desktop\Шибениця\Шибениця 2.0\obj\Debug\Шибениця 2.0_MarkupCompile.lref
+G:\Desktop\Шибениця\Шибениця 2.0\obj\Debug\DifficultySelectionMenu.baml
+G:\Desktop\Шибениця\Шибениця 2.0\obj\Debug\MainWindow.baml
+G:\Desktop\Шибениця\Шибениця 2.0\obj\Debug\GamePage.baml
+G:\Desktop\Шибениця\Шибениця 2.0\obj\Debug\MainMenuPage.baml
+G:\Desktop\Шибениця\Шибениця 2.0\obj\Debug\Shop.baml
+G:\Desktop\Шибениця\Шибениця 2.0\obj\Debug\Шибениця 2.0.g.resources
+G:\Desktop\Шибениця\Шибениця 2.0\obj\Debug\Шибениця_2._0.Properties.Resources.resources
+G:\Desktop\Шибениця\Шибениця 2.0\obj\Debug\Шибениця 2.0.csproj.GenerateResource.cache
+G:\Desktop\Шибениця\Шибениця 2.0\obj\Debug\Шибениця 2.0.csproj.CoreCompileInputs.cache
+G:\Desktop\Шибениця\Шибениця 2.0\obj\Debug\Шибениця 2.0.exe.manifest
+G:\Desktop\Шибениця\Шибениця 2.0\obj\Debug\Шибениця 2.0.application
+G:\Desktop\Шибениця\Шибениця 2.0\obj\Debug\Шибениця 2.0.csproj.CopyComplete
+G:\Desktop\Шибениця\Шибениця 2.0\obj\Debug\Шибениця 2.0.exe
+G:\Desktop\Шибениця\Шибениця 2.0\obj\Debug\Шибениця 2.0.pdb
+G:\Desktop\Шибениця\Шибениця 2.0\obj\Debug\FormPage.g.cs
+G:\Desktop\Шибениця\Шибениця 2.0\obj\Debug\FormPage.baml
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\bin\Debug\DataBaseHangman.mdf
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\bin\Debug\DataBaseHangman_log.ldf
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\bin\Debug\Шибениця 2.0.exe.config
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\bin\Debug\Шибениця 2.0.exe.manifest
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\bin\Debug\Шибениця 2.0.application
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\bin\Debug\Шибениця 2.0.exe
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\bin\Debug\Шибениця 2.0.pdb
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\bin\Debug\BouncyCastle.Cryptography.dll
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\bin\Debug\EntityFramework.dll
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\bin\Debug\EntityFramework.SqlServer.dll
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\bin\Debug\Google.Protobuf.dll
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\bin\Debug\K4os.Compression.LZ4.dll
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\bin\Debug\K4os.Hash.xxHash.dll
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\bin\Debug\MySql.Data.dll
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\bin\Debug\System.Buffers.dll
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\bin\Debug\System.Configuration.ConfigurationManager.dll
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\bin\Debug\System.IO.Pipelines.dll
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\bin\Debug\System.Memory.dll
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\bin\Debug\System.Numerics.Vectors.dll
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\bin\Debug\WpfAnimatedGif.dll
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\bin\Debug\ZstdSharp.dll
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\bin\Debug\BouncyCastle.Cryptography.xml
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\bin\Debug\EntityFramework.xml
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\bin\Debug\EntityFramework.SqlServer.xml
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\bin\Debug\Google.Protobuf.pdb
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\bin\Debug\Google.Protobuf.xml
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\bin\Debug\K4os.Compression.LZ4.xml
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\bin\Debug\K4os.Compression.LZ4.Streams.xml
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\bin\Debug\K4os.Hash.xxHash.xml
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\bin\Debug\MySql.Data.xml
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\bin\Debug\System.Buffers.xml
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\bin\Debug\System.Configuration.ConfigurationManager.xml
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\bin\Debug\System.IO.Pipelines.xml
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\bin\Debug\System.Memory.xml
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\bin\Debug\System.Numerics.Vectors.xml
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\bin\Debug\WpfAnimatedGif.pdb
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\bin\Debug\WpfAnimatedGif.xml
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\obj\Debug\Шибениця 2.0.csproj.AssemblyReference.cache
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\obj\Debug\App.baml
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\obj\Debug\DifficultySelectionMenu.g.cs
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\obj\Debug\FormPage.g.cs
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\obj\Debug\MainWindow.g.cs
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\obj\Debug\GamePage.g.cs
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\obj\Debug\MainMenuPage.g.cs
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\obj\Debug\Shop.g.cs
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\obj\Debug\App.g.cs
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\obj\Debug\Шибениця 2.0_Content.g.cs
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\obj\Debug\Шибениця 2.0_MarkupCompile.cache
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\obj\Debug\Шибениця 2.0_MarkupCompile.lref
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\obj\Debug\DifficultySelectionMenu.baml
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\obj\Debug\FormPage.baml
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\obj\Debug\MainWindow.baml
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\obj\Debug\GamePage.baml
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\obj\Debug\MainMenuPage.baml
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\obj\Debug\Shop.baml
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\obj\Debug\Шибениця 2.0.g.resources
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\obj\Debug\Шибениця_2._0.Properties.Resources.resources
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\obj\Debug\Шибениця 2.0.csproj.GenerateResource.cache
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\obj\Debug\Шибениця 2.0.csproj.CoreCompileInputs.cache
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\obj\Debug\Шибениця 2.0.exe.manifest
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\obj\Debug\Шибениця 2.0.application
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\obj\Debug\Шибениця 2.0.csproj.CopyComplete
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\obj\Debug\Шибениця 2.0.exe
+G:\Desktop\Шибениця – копія – копія\Шибениця 2.0\obj\Debug\Шибениця 2.0.pdb

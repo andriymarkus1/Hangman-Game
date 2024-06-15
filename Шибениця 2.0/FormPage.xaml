@@ -1,0 +1,205 @@
+﻿<Page x:Class="Шибениця_2._0.FormPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Шибениця_2._0"
+      mc:Ignorable="d" 
+      d:DesignHeight="1064.04" d:DesignWidth="900"
+      Title="FormPage" FontFamily="BirchCTT">
+
+    <Page.Resources>
+        <Style x:Key="CustomTextBoxStyle" TargetType="TextBox">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="TextBox">
+                        <Border Name="Border"
+                            Background="{TemplateBinding Background}"
+                            BorderBrush="{TemplateBinding BorderBrush}"
+                            BorderThickness="4" Height="45">
+                            <ScrollViewer x:Name="PART_ContentHost"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="Border" Property="BorderBrush">
+                                    <Setter.Value>
+                                        <ImageBrush ImageSource="\Visual\Main_Menu\12.png" />
+                                    </Setter.Value>
+                                </Setter>
+                            </Trigger>
+                            <Trigger Property="IsFocused" Value="True">
+                                <Setter TargetName="Border" Property="BorderBrush">
+                                    <Setter.Value>
+                                        <ImageBrush ImageSource="\Visual\Main_Menu\2.png" />
+                                    </Setter.Value>
+                                </Setter>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style x:Key="CustomPasswordBoxStyle" TargetType="PasswordBox">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="PasswordBox">
+                        <Border Name="Border"
+                    Background="{TemplateBinding Background}"
+                    BorderBrush="{TemplateBinding BorderBrush}"
+                    BorderThickness="4" Height="45">
+                            <ScrollViewer x:Name="PART_ContentHost"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="Border" Property="BorderBrush">
+                                    <Setter.Value>
+                                        <ImageBrush ImageSource="\Visual\Main_Menu\12.png" />
+                                    </Setter.Value>
+                                </Setter>
+                            </Trigger>
+                            <Trigger Property="IsFocused" Value="True">
+                                <Setter TargetName="Border" Property="BorderBrush">
+                                    <Setter.Value>
+                                        <ImageBrush ImageSource="\Visual\Main_Menu\2.png" />
+                                    </Setter.Value>
+                                </Setter>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Page.Resources>
+
+
+    <Canvas>
+        <TextBlock x:Name="UsernameTextBlock" Text="Вхід" FontSize="25" Canvas.Left="146" Canvas.Top="66" VerticalAlignment="Top" TextAlignment="Center" HorizontalAlignment="Center"/>
+        <TextBlock x:Name="UserBalanceTextBlock" Text="Вхід" FontSize="25" Canvas.Left="146" Canvas.Top="97" VerticalAlignment="Top" TextAlignment="Center" HorizontalAlignment="Center"/>
+        <TabControl Canvas.Left="173" Canvas.Top="319" Width="570">
+            <TabControl.BorderBrush>
+                <ImageBrush/>
+            </TabControl.BorderBrush>
+            <TabControl.Background>
+                <ImageBrush/>
+            </TabControl.Background>
+            <TabItem Header="ВХІД" FontSize="20" Margin="144,-2,-144,2" BorderBrush="{x:Null}" Style="{StaticResource CustomTabItemStyle}" Width="106" Height="40" IsSelected="True">
+                <TabItem.Background>
+                    <ImageBrush/>
+                </TabItem.Background>
+                <StackPanel Margin="10,5,10,10">
+                    <TextBlock
+                    Text="Вхід" Margin="0,20,0,0" HorizontalAlignment="Center" FontSize="25"/>
+                    <TextBlock Text="Логін:" FontSize="25" Padding="15,0,0,0" Height="28" Width="384"/>
+                    <TextBox Style="{StaticResource CustomTextBoxStyle}" Width="400" x:Name="LoginUsernameTextBox" Margin="0,0,0,10" Height="45" HorizontalAlignment="Center" Padding="15,4,15,0" ScrollViewer.CanContentScroll="True">
+                        <TextBox.CaretBrush>
+                            <ImageBrush ImageSource="\Visual\Main_Menu\TextBoxSeleckted.png"/>
+                        </TextBox.CaretBrush>
+                        <TextBox.SelectionBrush>
+                            <ImageBrush ImageSource="\Visual\Main_Menu\dcsdc.png" Stretch="Fill"/>
+                        </TextBox.SelectionBrush>
+                        <TextBox.BorderBrush
+                >
+                            <ImageBrush
+                />
+                        </TextBox.BorderBrush>
+                        <TextBox.Background
+                >
+                            <ImageBrush ImageSource="\Visual\Main_Menu\TextBoxBack.png" Stretch="Fill"
+                />
+                        </TextBox.Background>
+                    </TextBox>
+                    <TextBlock Text="Пароль:" FontSize="25" Padding="15,0,0,0" Height="28" Width="384"/>
+                    <PasswordBox  Style="{StaticResource CustomPasswordBoxStyle}" Width="400" x:Name="LoginPasswordBox" Height="46" Padding="15,4,15,0">
+                        <PasswordBox.SelectionBrush>
+                            <ImageBrush ImageSource="\Visual\Main_Menu\dcsdc.png"/>
+                        </PasswordBox.SelectionBrush>
+                        <PasswordBox.CaretBrush>
+                            <ImageBrush ImageSource="\Visual\Main_Menu\TextBoxSeleckted.png"/>
+                        </PasswordBox.CaretBrush>
+                        <PasswordBox.BorderBrush
+                >
+                            <ImageBrush
+                />
+                        </PasswordBox.BorderBrush>
+                        <PasswordBox.Background
+                >
+                            <ImageBrush ImageSource="\Visual\Main_Menu\TextBoxBack.png" Stretch="Fill"
+                />
+                        </PasswordBox.Background>
+                    </PasswordBox>
+                    <Button
+                Width="168" Style="{StaticResource ShopSetButtonStyle}" Height="37" Content="Підтвердити" Click="LoginButton_Click" Margin="0,20,0,0"/>
+                </StackPanel>
+            </TabItem>
+            <TabItem Header="РЕЄСТРАЦІЯ" FontSize="20" Margin="154,-2,-154,2" BorderBrush="{x:Null}" Style="{StaticResource CustomTabItemStyle}" Width="182" Height="40">
+                <TabItem.Background>
+                    <ImageBrush/>
+                </TabItem.Background>
+                <StackPanel Height="419" HorizontalAlignment="Center" VerticalAlignment="Center">
+                    <TextBlock Text="Реєстрація" FontSize="25" HorizontalAlignment="Center" Margin="0,23,0,2" VerticalAlignment="Center"/>
+                    <TextBlock Text="Логін:" FontSize="25" Padding="15,0,0,0" Height="28" Width="384"/>
+                    <TextBox Name="RegisterUsernameTextBox" Style="{StaticResource CustomTextBoxStyle}" Width="400" Height="45" Padding="15,4,15,0" Margin="0,0,0,10">
+                        <TextBox.CaretBrush>
+                            <ImageBrush ImageSource="\Visual\Main_Menu\TextBoxSeleckted.png"/>
+                        </TextBox.CaretBrush>
+                        <TextBox.SelectionBrush>
+                            <ImageBrush ImageSource="\Visual\Main_Menu\dcsdc.png"/>
+                        </TextBox.SelectionBrush>
+                        <TextBox.BorderBrush>
+                            <ImageBrush/>
+                        </TextBox.BorderBrush>
+                        <TextBox.Background>
+                            <ImageBrush ImageSource="\Visual\Main_Menu\TextBoxBack.png" Stretch="Fill"/>
+                        </TextBox.Background>
+                    </TextBox>
+                    <TextBlock Text="Пароль:" FontSize="25" Padding="15,0,0,0" Height="28" Width="384"/>
+                    <PasswordBox Name="RegisterPasswordBox" Style="{StaticResource CustomPasswordBoxStyle}" Width="400" Height="45" Padding="15,4,15,0" Margin="0,0,0,10">
+                        <PasswordBox.CaretBrush>
+                            <ImageBrush ImageSource="\Visual\Main_Menu\TextBoxSeleckted.png"/>
+                        </PasswordBox.CaretBrush>
+                        <PasswordBox.SelectionBrush>
+                            <ImageBrush ImageSource="\Visual\Main_Menu\dcsdc.png"/>
+                        </PasswordBox.SelectionBrush>
+                        <PasswordBox.BorderBrush>
+                            <ImageBrush/>
+                        </PasswordBox.BorderBrush>
+                        <PasswordBox.Background>
+                            <ImageBrush ImageSource="\Visual\Main_Menu\TextBoxBack.png"/>
+                        </PasswordBox.Background>
+                    </PasswordBox>
+                    <TextBlock Text="Підтвердження паролю:" FontSize="25" Padding="15,0,0,0" Height="36" Width="384"/>
+                    <PasswordBox Name="RegisterConfirmPasswordBox" Style="{StaticResource CustomPasswordBoxStyle}" Margin="0,0,0,20" Width="400" Height="45" Padding="15,4,15,0">
+                        <PasswordBox.CaretBrush>
+                            <ImageBrush ImageSource="\Visual\Main_Menu\TextBoxSeleckted.png"/>
+                        </PasswordBox.CaretBrush>
+                        <PasswordBox.SelectionBrush>
+                            <ImageBrush ImageSource="\Visual\Main_Menu\dcsdc.png"/>
+                        </PasswordBox.SelectionBrush>
+                        <PasswordBox.Background>
+                            <ImageBrush ImageSource="\Visual\Main_Menu\TextBoxBack.png"/>
+                        </PasswordBox.Background>
+                        <PasswordBox.BorderBrush>
+                            <ImageBrush/>
+                        </PasswordBox.BorderBrush>
+                    </PasswordBox>
+                    <Button Content="Підтвердити" Style="{StaticResource ShopSetButtonStyle}" Click="RegisterButton_Click" Width="170" Height="37"/>
+                </StackPanel>
+            </TabItem>
+        </TabControl>
+        <Button Style="{StaticResource BackToMenuButtonStyle}" Click="BackToMenuButton_Click" Content="Меню" FontSize="36" RenderTransformOrigin="0.5,0.5" Canvas.Left="398" Canvas.Top="241" Width="120" Height="54" HorizontalAlignment="Left" VerticalAlignment="Center">
+        </Button>
+        <Canvas x:Name="MessageBoxCanvas" Visibility="Collapsed" Height="410" Width="678" Canvas.Left="119" Canvas.Top="268" HorizontalAlignment="Left" VerticalAlignment="Top">
+            <Canvas.Background>
+                <ImageBrush ImageSource="\Visual\MessageBoxBack.png" Stretch="Uniform"/>
+            </Canvas.Background>
+            <TextBlock x:Name="MessageBoxTextBlock"
+                   Text=""
+                   FontSize="25"
+                   Padding="7,0,7,0"
+                   TextWrapping="Wrap"
+                   VerticalAlignment="Center"
+                   TextAlignment="Center" Canvas.Left="152" Canvas.Top="124" HorizontalAlignment="Left" Width="374"/>
+            <Button Style="{StaticResource BackToMenuButtonStyle}" Click="OkButton_Click" Content="Ok" FontSize="40" RenderTransformOrigin="0.5,0.5" Canvas.Left="265" Canvas.Top="268" Width="120" Height="54" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        </Canvas>
+    </Canvas>
+</Page>

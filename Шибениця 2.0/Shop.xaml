@@ -1,0 +1,130 @@
+﻿<Page x:Class="Шибениця_2._0.Shop"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Шибениця_2._0"
+      mc:Ignorable="d" 
+      d:DesignHeight="1064.04" d:DesignWidth="900"
+      Title="Shop"
+      FontFamily="BirchCTT">
+
+    <Page.Resources>
+        <Style x:Key="PriceTextBlockStyle" TargetType="TextBlock">
+            <Setter Property="FontSize" Value="26"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="Foreground" Value="#FF00098C"/>
+        </Style>
+    </Page.Resources>
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="\Visual\Shop\Back.png"/>
+        </Grid.Background>
+        <Grid.Resources>
+            <Style TargetType="Button" BasedOn="{StaticResource BaseGridButtonStyle}"/>
+        </Grid.Resources>
+        <TabControl Margin="104,116,0,116" >
+            <TabControl.BorderBrush>
+                <ImageBrush/>
+            </TabControl.BorderBrush>
+            <TabControl.Background>
+                <ImageBrush/>
+            </TabControl.Background>
+            <TabItem Header="ШИБЕНИЦЯ" FontSize="20" Margin="-2,5,2,-5" BorderBrush="{x:Null}" Style="{StaticResource CustomTabItemStyle}" Width="200" Height="40" IsSelected="True">
+                <TabItem.Background>
+                    <ImageBrush/>
+                </TabItem.Background>
+                <ScrollViewer x:Name="CustomScrollViewer" PreviewMouseWheel="CustomScrollViewer_PreviewMouseWheel" Style="{StaticResource CustomScrollViewerStyle}" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Disabled" >
+                    <ScrollViewer.Background>
+                        <ImageBrush/>
+                    </ScrollViewer.Background>
+                    <StackPanel Margin="10" Orientation="Horizontal">
+
+                        <StackPanel Orientation="Vertical" Margin="10,10,20,10" Width="550">
+                            <Image Source="\Visual\Preview_Images\Default_Gallow_Preview.png" Width="500" Height="500" Margin="20"/>
+                            <TextBlock Text="КЛАСИЧНА" FontSize="32" FontWeight="Bold" Margin="0,10,0,0" HorizontalAlignment="Center"/>
+                            <Button x:Name="SetGallows0Button" Style="{StaticResource ShopSetButtonStyle}" Content="Встановити" Click="SetGallow0_Click" Visibility="Visible" IsEnabled="False" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch" Width="200" Height="40" FontSize="28" Margin="0,21,0,0"/>
+                            <TextBlock Text="" Style="{StaticResource PriceTextBlockStyle}"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Vertical" Margin="10,10,20,10" Width="550">
+                            <Image Source="\Visual\Preview_Images\Tree_Preview.png" Width="500" Height="500" Margin="20"/>
+                            <TextBlock Text="ЯБЛУНЯ" FontSize="32" FontWeight="Bold" Margin="0,10,0,0" HorizontalAlignment="Center"/>
+                            <TextBlock x:Name="TreePriceTextBlock" Text="Ціна: 200" Style="{StaticResource PriceTextBlockStyle}"/>
+                            <Button Name="BuyGallows1Button"  Width="200" Height="40" Content="Купити" Click="BuyGallows1_Click" Margin="0,5,0,0" HorizontalAlignment="Center"/>
+                            <Button x:Name="SetGallows1Button" Style="{StaticResource ShopSetButtonStyle}" Content="Встановити" Click="SetGallow1_Click" Visibility="Collapsed" Margin="0,5,0,0" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch" Width="200" Height="40" FontSize="28"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Vertical" Margin="10,10,130,10" Width="550">
+                            <Image Source="\Visual\Preview_Images\Road_Sign_Preview.png" Width="500" Height="500" Margin="20"/>
+                            <TextBlock Text="ДОРОЖНИЙ ЗНАК" FontSize="32" FontWeight="Bold" Margin="0,10,0,0" HorizontalAlignment="Center"/>
+                            <TextBlock x:Name="RoadSignPriceTextBlock" Text="Ціна: 300" Style="{StaticResource PriceTextBlockStyle}"/>
+                            <Button x:Name="BuyGallows2Button"  Width="200" Height="40" Content="Купити" Click="BuyGallows2_Click" Margin="0,5,0,0" HorizontalAlignment="Center"/>
+                            <Button x:Name="SetGallows2Button" Style="{StaticResource ShopSetButtonStyle}" Content="Встановити" Click="SetGallow2_Click" Visibility="Collapsed" Margin="0,5,0,0" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch" Width="200" Height="40" FontSize="28"/>
+
+                        </StackPanel>
+                    </StackPanel>
+                </ScrollViewer>
+            </TabItem>
+            <TabItem Header="СКІН" Margin="22,5,-22,-5" FontSize="20" Style="{StaticResource CustomTabItemStyle}" Height="40" Width="80">
+                <TabItem.BorderBrush>
+                    <ImageBrush/>
+                </TabItem.BorderBrush>
+                <TabItem.Background>
+                    <ImageBrush/>
+                </TabItem.Background>
+                <ScrollViewer x:Name="CustomScrollViewer1" PreviewMouseWheel="CustomScrollViewer1_PreviewMouseWheel" Style="{StaticResource CustomScrollViewerStyle}" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Disabled">
+                    <StackPanel Margin="10" Orientation="Horizontal">
+                        <StackPanel Orientation="Vertical" Margin="10,10,20,10" Width="550">
+                            <Image Source="\Visual\Preview_Images\Default_Hangman_Preview.png" Width="300" Margin="0,120,0,30"/>
+                            <TextBlock Text="КЛАСИЧНИЙ" FontSize="32" FontWeight="Bold" Margin="0,10,0,0" HorizontalAlignment="Center"/>
+                            <TextBlock Text="" Style="{StaticResource PriceTextBlockStyle}"/>
+                            <Button x:Name="SetSkin0Button" Style="{StaticResource ShopSetButtonStyle}" Content="Встановити" Click="SetSkin0_Click" Visibility="Visible" Margin="0,5,0,0" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch" Width="200" Height="40" FontSize="28"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Vertical" Margin="10,10,20,10" Width="550">
+                            <Image Source="\Visual\Preview_Images\Peasant_Preview.png" Width="300" Margin="0,120,0,30"/>
+                            <TextBlock Text="СЕЛЯНИН" FontSize="32" FontWeight="Bold" Margin="0,10,0,0" HorizontalAlignment="Center"/>
+                            <TextBlock x:Name="PeasantPriceTextBlock" Text="Ціна: 300" Style="{StaticResource PriceTextBlockStyle}"/>
+                            <Button Name="BuySkin1Button"  Width="200" Height="40" Content="Купити" Click="BuySkin1_Click" Margin="0,5,0,0" HorizontalAlignment="Center"/>
+                            <Button x:Name="SetSkin1Button" Style="{StaticResource ShopSetButtonStyle}" Content="Встановити" Click="SetSkin1_Click" Visibility="Collapsed" Margin="0,5,0,0" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch" Width="200" Height="40" FontSize="28"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Vertical"  Margin="10,10,130,10" Width="550">
+                            <Image Source="\Visual\Preview_Images\Orc_preview.png" Width="300" Margin="0,120,0,30"/>
+                            <TextBlock Text="ОРК" FontSize="32" FontWeight="Bold" Margin="0,10,0,0" HorizontalAlignment="Center"/>
+                            <TextBlock x:Name="OrcPriceTextBlock" Text="Ціна: 400" Style="{StaticResource PriceTextBlockStyle}"/>
+                            <Button Name="BuySkin2Button"  Width="200" Height="40" Content="Купити" Click="BuySkin2_Click" Margin="0,5,0,0" HorizontalAlignment="Center"/>
+                            <Button x:Name="SetSkin2Button" Style="{StaticResource ShopSetButtonStyle}" Content="Встановити" Click="SetSkin2_Click" Visibility="Collapsed" Margin="0,5,0,0" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch" Width="200" Height="40" FontSize="28"/>
+                        </StackPanel>
+                    </StackPanel>
+                </ScrollViewer>
+            </TabItem>
+        </TabControl>
+        <Button Style="{StaticResource BackToMenuButtonStyle}" Margin="350,50,340,942" Click="BackToMenuButton_Click" Content="В МЕНЮ" FontSize="36" RenderTransformOrigin="0.5,0.5">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-1.029"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <StackPanel Margin="0,124,165,0" VerticalAlignment="Top" HorizontalAlignment="Right" Orientation="Horizontal">
+            <TextBlock Text="БАЛАНС:" FontSize="28" FontWeight="Bold" Width="117" HorizontalAlignment="Left" Height="41"/>
+            <TextBlock x:Name="BalanceTextBlock" Text="1000" FontSize="28" Height="41"/>
+        </StackPanel>
+        <Canvas x:Name="MessageBoxCanvas" Visibility="Collapsed" Height="410" Width="678" Canvas.Left="119" Canvas.Top="268" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Canvas.Background>
+                <ImageBrush ImageSource="\Visual\MessageBoxBack.png" Stretch="Uniform"/>
+            </Canvas.Background>
+            <TextBlock x:Name="MessageBoxTextBlock"
+           Text=""
+           FontSize="25"
+           Padding="7,0,7,0"
+           TextWrapping="Wrap"
+           VerticalAlignment="Center"
+           TextAlignment="Center" Canvas.Left="152" Canvas.Top="124" HorizontalAlignment="Left" Width="374"/>
+            <Button Style="{StaticResource BackToMenuButtonStyle}" Click="OkButton_Click" Content="Ok" FontSize="40" RenderTransformOrigin="0.5,0.5" Canvas.Left="265" Canvas.Top="268" Width="120" Height="54" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        </Canvas>
+    </Grid>
+</Page>
+

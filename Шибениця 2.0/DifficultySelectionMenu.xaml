@@ -1,0 +1,195 @@
+﻿<Page x:Class="Шибениця_2._0.DifficultySelectionMenu"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Шибениця_2._0"
+      mc:Ignorable="d" 
+      Title="DifficultySelectionMenu"
+      Width="889" Height="1055">
+
+    <Grid >
+        <Grid.Background>
+            <ImageBrush ImageSource="/Back.png" Stretch="Fill"/>
+        </Grid.Background>
+        <Canvas x:Name="DCanvas">
+            <TextBlock Grid.Row="0" Text="СЕРЕДНІЙ:" x:Name="DName"
+                   FontSize="40" Foreground="#FF040082" HorizontalAlignment="Left" FontFamily="BirchCTT" RenderTransformOrigin="0.5,0.5" Width="344" FontWeight="Bold" Canvas.Left="125" Canvas.Top="125">
+                <TextBlock.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform AngleY="0.791"/>
+                        <RotateTransform Angle="-3.38"/>
+                        <TranslateTransform Y="1.902" X="0.004"/>
+                    </TransformGroup>
+                </TextBlock.RenderTransform>
+            </TextBlock>
+            <TextBlock Grid.Row="0" x:Name="DText" Text="- ВІДКРИТА ПЕРША І ОСТАННЯ ЛІТЕРИ - 7-10 ЛІТЕР У СЛОВІ" 
+           FontSize="25" Foreground="Black" Margin="35,200,0,0" HorizontalAlignment="Left" FontFamily="BirchCTT" RenderTransformOrigin="0.5,0.5" Width="471" VerticalAlignment="Top" TextWrapping="WrapWithOverflow" FontWeight="Bold" FontStyle="Italic">
+                <TextBlock.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform AngleY="0.791"/>
+                        <RotateTransform Angle="-2.577"/>
+                        <TranslateTransform Y="1.902" X="0.004"/>
+                    </TransformGroup>
+                </TextBlock.RenderTransform>
+            </TextBlock>
+        </Canvas>
+        <TextBlock Grid.Row="0" Text="РІВЕНЬ" FontSize="40" Foreground="#FF05018A" Margin="505,383,0,621" HorizontalAlignment="Left" FontFamily="BirchCTT" RenderTransformOrigin="0.5,0.5" Width="131" FontWeight="Bold">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="0.791"/>
+                    <RotateTransform Angle="2.494"/>
+                    <TranslateTransform Y="1.902" X="0.004"/>
+                </TransformGroup>
+            </TextBlock.RenderTransform>
+        </TextBlock>
+        <TextBlock Grid.Row="0" Text="СКЛАДНОСТІ:" FontSize="36" FontWeight="Bold" Foreground="#FF05018A" Margin="510,427,0,577" HorizontalAlignment="Left" FontFamily="BirchCTT" RenderTransformOrigin="0.5,0.5" Width="244">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="0.791"/>
+                    <RotateTransform Angle="-6.229"/>
+                    <TranslateTransform Y="1.902" X="0.004"/>
+                </TransformGroup>
+            </TextBlock.RenderTransform>
+        </TextBlock>
+        <RadioButton x:Name="EasyRadio" Content="Легкий" Style="{StaticResource EasyRadioButtonStyle}" HorizontalAlignment="Left" Height="45" Margin="473,527,0,0" VerticalAlignment="Top" Width="261" FontSize="36" FontStyle="Oblique" Foreground="#FF6F6F6F" RenderTransformOrigin="0.501,0.567" HorizontalContentAlignment="Center" Checked="EasyRadio_Checked" >
+            <RadioButton.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-2.818"/>
+                    <TranslateTransform X="0.164" Y="0.351"/>
+                </TransformGroup>
+            </RadioButton.RenderTransform>
+        </RadioButton>
+        <RadioButton x:Name="MidRadio" Content="СЕРЕДНІЙ" IsChecked="True" Style="{StaticResource MidRadioButtonStyle}" HorizontalAlignment="Left" Height="69" Margin="447,578,0,0" VerticalAlignment="Top" Width="302" Foreground="#FF05018A" FontSize="36" RenderTransformOrigin="0.263,0.444" Checked="MidRadio_Checked">
+            <RadioButton.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="-0.279"/>
+                    <RotateTransform Angle="3.643"/>
+                    <TranslateTransform X="0.454" Y="-5.779"/>
+                </TransformGroup>
+            </RadioButton.RenderTransform>
+        </RadioButton>
+        <RadioButton x:Name="HighRadio" Style="{StaticResource HighRadioButtonStyle}" Content="НАЙВИЩИЙ" HorizontalAlignment="Left" Height="62" Margin="411,652,0,0" VerticalAlignment="Top" Width="368" Foreground="#FF9B1409" FontSize="40" RenderTransformOrigin="0.5,0.5" FontStyle="Oblique" Checked="HighRadio_Checked">
+            <RadioButton.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-3.519"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </RadioButton.RenderTransform>
+        </RadioButton>
+        <Button Content="Далі" FontSize="36" Click="NewGameButton_Click" Margin="428,717,226,285"  Style="{StaticResource PlayButtonStyle}" Foreground="#FF00098C" FontWeight="Bold" RenderTransformOrigin="0.642,0.229">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="4.159"/>
+                    <TranslateTransform X="1.148" Y="2.579"/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Button Style="{StaticResource BackToMenuButtonStyle}" Margin="566,758,129,242" Click="BackToMenuButton_Click" Content="назад" FontSize="36" RenderTransformOrigin="0.5,0.5">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-7.865"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+
+        <TextBlock Grid.Row="0" Text="ГОЛОВНЕ" FontSize="36" FontWeight="Bold" Foreground="Black" Margin="716,971,0,48" HorizontalAlignment="Left" FontFamily="BirchCTT" RenderTransformOrigin="0.5,0.5" Width="172">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="0.791"/>
+                    <RotateTransform Angle="197.531"/>
+                    <TranslateTransform Y="1.902" X="0.004"/>
+                </TransformGroup>
+            </TextBlock.RenderTransform>
+        </TextBlock>
+        <TextBlock Grid.Row="0" Text="МЕНЮ" FontSize="36" FontWeight="Bold" Foreground="Black" Margin="601,952,0,66" HorizontalAlignment="Left" FontFamily="BirchCTT" RenderTransformOrigin="0.5,0.5" Width="106">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="0.791"/>
+                    <RotateTransform Angle="181.413"/>
+                    <TranslateTransform Y="1.902" X="0.004"/>
+                </TransformGroup>
+            </TextBlock.RenderTransform>
+        </TextBlock>
+        <Button Content="Налаштування" FontSize="36" Margin="207,992,323,11" IsEnabled="False" Style="{DynamicResource SettingsButtonStyle}" Foreground="#FF00098C" FontWeight="Bold" RenderTransformOrigin="0.5,0.5">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-5.361"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+
+        </Button>
+        <Button Content="Вихід" FontSize="36" Margin="-16,1015,752,1"  Style="{StaticResource ExitButtonStyle}" RenderTransformOrigin="0.5,0.5" Foreground="#FF9C0000" FontStyle="Oblique" FontWeight="Bold" Click="CloseAppButton_Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="-1.68"/>
+                    <RotateTransform Angle="-187.28"/>
+                    <TranslateTransform Y="-2.926" X="0.314"/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Image Source="\Visual\Difficulty_Selection_Menu\7(2).png" Margin="128,249,82,261" RenderTransformOrigin="0.194,0.514" IsHitTestVisible="False" >
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="104.416"/>
+                    <TranslateTransform X="-0.051" Y="-1.498"/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+
+        <Image Source="\Visual\Difficulty_Selection_Menu\8sh.png" Margin="-205,449,529,233" RenderTransformOrigin="0.513,0.198">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-2.1"/>
+                    <TranslateTransform X="96.921" Y="60.179"/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Image Source="\Visual\Difficulty_Selection_Menu\9.png" Margin="694,967,0,-34" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Left" Width="136">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-13.227"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Button Content="Грати" IsEnabled="False" FontSize="48" Margin="539,977,100,27"  Style="{StaticResource PlayButtonStyle}" Foreground="#FF00098C" FontWeight="Bold" RenderTransformOrigin="0.5,0.5">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-14.41"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+
+
+    </Grid>
+</Page>
