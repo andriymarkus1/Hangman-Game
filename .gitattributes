@@ -1,3 +1,4 @@
 G:/Desktop/Шибеницяu filter=lfs diff=lfs merge=lfs -text
 G:/Desktop/Шибеницяu* filter=lfs diff=lfs merge=lfs -text
 Шибеницяu/* filter=lfs diff=lfs merge=lfs -text
+G:/Desktop/Шибеницяu/* filter=lfs diff=lfs merge=lfs -text
